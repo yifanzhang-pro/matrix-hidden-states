@@ -1,2 +1,1 @@
-# matrix-hidden-states
-Matrix Hidden States
+# Matrix Hidden States
